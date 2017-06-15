@@ -1,0 +1,196 @@
+ul li{
+  display:inline;
+  list-style-type:none;
+
+}
+.order {
+  float:left;
+  margin-left:60%;
+  margin-top: 20px;
+}
+.margin-order{
+
+  margin-right: 10px;
+}
+.margin{
+  margin-top:5px;
+  float:left;
+  margin-left:30px;
+}
+.fixed{
+  width:100%;
+  background-color: #0a1612;
+  height: 60px;
+  color:#c5c1c0;
+  margin:0px auto;
+  z-index:0;
+  position: fixed;
+  top: 0;
+  left:0;
+}
+
+.title{
+  font-family: 'Prata', serif;
+  font-weight: normal;
+  font-size: 48px;
+  color: #0a1612;
+  margin-top: 110px;
+  margin-left: 270px;
+}
+.label{
+
+  font-family: 'Prata', serif;
+  font-size: 30px;
+  color:#2d1111;
+  margin-top:100px;
+  margin-left: 35px;
+}
+.image-background{
+    margin-top: -21px;
+    width: 100%;
+    height: 800px;
+    background-image: url(http://i.huffpost.com/gen/1602403/images/o-HOSPITAL-HALLWAY-facebook.jpg);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+}
+.width{
+  width:45%;
+}
+.helper{
+font-size: 1px;
+}
+.top-space{
+  margin-bottom: 10px;
+}
+
+.offers{
+  float: left;
+  font-family: 'Prata', serif;
+  font-size: 24px;
+  color:#2d1111;
+  margin-left: 80px;
+  margin-top: 30px;
+}
+
+.form{
+height: 440px;
+background-color: #f4f4f4;
+font-family: 'Prata', serif;
+color:#2d1111;
+font-size: 30px;
+margin-top: 0px;
+text-align: center;
+clear:right;
+float: right;
+width:30%;
+border: 2px solid darkgrey;
+margin-right: 80px;
+}
+.form-or{
+  text-align: center;
+  font-size: 18px;
+}
+.more{
+    width:300px;
+}
+.center{
+  text-align: center;
+  width:300px;
+}
+.button{
+  font-size: 20px;
+  background-color:  	#762c34;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Prata', serif;
+  margin-top: 30px;
+}
+.container{
+  background-color: 	#0d1b2a;
+  width: 100%;
+  text-align: center;
+  height: 100px;
+  font-size: 32px;
+  color: #c5c1c0;
+  font-family: 'Prata', serif;
+}
+.a{
+  text-decoration: none;
+  color:#c5c1c0;
+}
+a:hover{
+  font-size: 18px;
+}
+.aboutus-back{
+  height: 650px;
+  background-color:  	#eaceb2;
+}
+.float-ico{
+  margin-top: 110px;
+  float: right;
+  width: 30%;
+  text-align: center;
+  margin-right: 30PX;
+}
+.text{
+  width: 70%;
+  font-size: 20px;
+  font-family: 'Prata', serif;
+  margin-left: 70px;
+    color:#2d1111;
+}
+.title-ico{
+  font-size: 24px;
+  font-family: 'Prata', serif;
+  color:#2d1111;
+}
+.timetable{
+  background-color:   	#aeb5c5;
+  height: 650px;
+  text-align: center;
+    color:#2d1111;
+    font-family: 'Prata', serif;
+}
+.th{
+  width: 200px;
+}
+table {
+  margin-top: 30px;
+  border-collapse:collapse;
+  border: 1px solid black;
+  margin-left: 30px;
+}
+ td  {
+  border: solid 1px black;
+  padding:30px;
+}
+.timetable-title{
+  color:#2d1111;
+  font-family: 'Prata', serif;
+  font-size: 35px;
+}
+.left-table{
+  color:#2d1111;
+  font-family: 'Prata', serif;
+  font-size: 20px;
+  text-align: right;
+  margin-right: 15px;
+}
+.color-footer{
+  background-color: #000d18;
+  height: 110px;
+}
+.footer{
+  float: right;
+  list-style-type:none;
+  margin-top:20px;
+  margin-right: 20px;
+  text-align: right;
+  color: #c5c1c0;
+}
+.social{
+  float: left;
+  margin-left:15px;
+  margin-top: 20px;
+
+}
