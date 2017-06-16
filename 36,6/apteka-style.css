@@ -4,23 +4,23 @@ ul li{
 
 }
 .order {
-  float:left;
-  margin-left:60%;
-  margin-top: 20px;
+  float:right;
+
+  margin-top: 1.5%;
 }
 .margin-order{
 
-  margin-right: 10px;
+  margin-right: 0,9%;
 }
 .margin{
-  margin-top:5px;
+  margin-top:0.5%;
   float:left;
-  margin-left:30px;
+  margin-left:3%;
 }
 .fixed{
   width:100%;
   background-color: #0a1612;
-  height: 60px;
+  height: 9%;
   color:#c5c1c0;
   margin:0px auto;
   z-index:0;
@@ -28,27 +28,29 @@ ul li{
   top: 0;
   left:0;
 }
-
+.registration{
+  font-size: 80%;
+}
 .title{
   font-family: 'Prata', serif;
   font-weight: normal;
-  font-size: 48px;
+  font-size: 3rem;
   color: #0a1612;
-  margin-top: 110px;
-  margin-left: 270px;
+  margin-top: 10%;
+  margin-left: 20%;
 }
 .label{
 
   font-family: 'Prata', serif;
-  font-size: 30px;
+  font-size: 1.9rem;
   color:#2d1111;
-  margin-top:100px;
-  margin-left: 35px;
+  margin-top:20%;
+  margin-left: 8%;
 }
 .image-background{
     margin-top: -21px;
     width: 100%;
-    height: 800px;
+    height: 130vh;
     background-image: url(http://i.huffpost.com/gen/1602403/images/o-HOSPITAL-HALLWAY-facebook.jpg);
     background-repeat: repeat-x;
     background-attachment: fixed;
@@ -60,57 +62,58 @@ ul li{
 font-size: 1px;
 }
 .top-space{
-  margin-bottom: 10px;
+  margin-bottom: 2%;
 }
 
 .offers{
   float: left;
   font-family: 'Prata', serif;
-  font-size: 24px;
+  font-size: 1.5rem;
   color:#2d1111;
-  margin-left: 80px;
-  margin-top: 30px;
+  margin-left: 8%;
+  margin-top: 5%;
 }
 
 .form{
-height: 440px;
+height: 53%;
 background-color: #f4f4f4;
 font-family: 'Prata', serif;
 color:#2d1111;
-font-size: 30px;
-margin-top: 0px;
+font-size: 1.9rem;
+margin-top: 2%;
 text-align: center;
 clear:right;
 float: right;
 width:30%;
 border: 2px solid darkgrey;
-margin-right: 80px;
+margin-right: 8%;
 }
 .form-or{
   text-align: center;
-  font-size: 18px;
+  font-size: 1.1rem;
 }
 .more{
-    width:300px;
+    width:80%;
 }
 .center{
   text-align: center;
-  width:300px;
+  width:80%;
 }
 .button{
-  font-size: 20px;
+  font-size: 60%;
   background-color:  	#762c34;
   color: white;
-  border-radius: 10px;
+  border-radius: 10%;
   font-family: 'Prata', serif;
-  margin-top: 30px;
+  margin-top: 10%;
 }
 .container{
   background-color: 	#0d1b2a;
   width: 100%;
   text-align: center;
-  height: 100px;
-  font-size: 32px;
+  height: 15vh;
+
+  font-size: 2rem;
   color: #c5c1c0;
   font-family: 'Prata', serif;
 }
@@ -119,78 +122,77 @@ margin-right: 80px;
   color:#c5c1c0;
 }
 a:hover{
-  font-size: 18px;
+  font-size: 1,1%;
 }
 .aboutus-back{
   height: 650px;
   background-color:  	#eaceb2;
 }
 .float-ico{
-  margin-top: 110px;
+  margin-top: 11%;
   float: right;
   width: 30%;
   text-align: center;
-  margin-right: 30PX;
+  margin-right: 3%;
 }
 .text{
   width: 70%;
-  font-size: 20px;
+  font-size: 1.2rem;
   font-family: 'Prata', serif;
-  margin-left: 70px;
+  margin-left: 17%;
     color:#2d1111;
 }
 .title-ico{
-  font-size: 24px;
+  font-size: 1.4rem;
   font-family: 'Prata', serif;
   color:#2d1111;
 }
 .timetable{
   background-color:   	#aeb5c5;
-  height: 650px;
+  height: 65%;
   text-align: center;
     color:#2d1111;
     font-family: 'Prata', serif;
 }
 .th{
-  width: 200px;
+  width: 12%;
 }
 table {
-  margin-top: 30px;
+  margin-top: 3%;
   border-collapse:collapse;
   border: 1px solid black;
-  margin-left: 30px;
+  margin-left: 2%;
 }
  td  {
   border: solid 1px black;
-  padding:30px;
+  padding:3%;
 }
 .timetable-title{
   color:#2d1111;
   font-family: 'Prata', serif;
-  font-size: 35px;
+  font-size: 2.1rem;
 }
 .left-table{
   color:#2d1111;
   font-family: 'Prata', serif;
-  font-size: 20px;
+  font-size: 1.4rem;
   text-align: right;
-  margin-right: 15px;
+  margin-right: 1.5%;
 }
 .color-footer{
   background-color: #000d18;
-  height: 110px;
+  height: 15vh;
 }
 .footer{
   float: right;
   list-style-type:none;
-  margin-top:20px;
-  margin-right: 20px;
+  margin-top:2%;
+  margin-right: 2%;
   text-align: right;
   color: #c5c1c0;
 }
 .social{
   float: left;
-  margin-left:15px;
-  margin-top: 20px;
-
+  margin-left:1.5%;
+  margin-top: 2%;
 }
