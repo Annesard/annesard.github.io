@@ -1,10 +1,4 @@
-/*!
- * Start Bootstrap - Stylish Portfolio (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 
-/* Global Styles */
 
 html,
 body {
@@ -15,7 +9,7 @@ body {
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
+/*whyyyy*/
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -249,8 +243,21 @@ footer {
   right: 5px;
 }
 .footer{
-  float:right;
   list-style-type: none;
   color: #fff;
-width: 10%;
+}
+.carousel-caption .padding{
+padding-top: 0%;
+color:white;
+font-size: 490%;
+position: relative;
+bottom: 30vh;
+}
+
+
+
+  @media (max-width: 600px) {
+  .media{
+    display: none;
+  }
 }
